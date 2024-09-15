@@ -2,6 +2,9 @@
 It's a simple tool I created that grabs IP and system information and sends it using Discord webhooks.
 Don't forget to join my [Discord server!](https://discord.com/invite/fEqXe2CceZ).
 
+## Infomation
+This program retrieves the target's IP, IPv6, system information, memory information, and CPU information.
+
 ## Usage
 Run this command in CMD, terminal or PowerShell (if you don't already have the following modules installed):
 ```
