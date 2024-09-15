@@ -1,4 +1,4 @@
-# Discord-IP-Grabber
+# IP-Grabber
 It's a simple tool I created that grabs IP and system information and sends it using Discord webhooks.
 Don't forget to join my [Discord server!](https://discord.com/invite/fEqXe2CceZ).
 
