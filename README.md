@@ -1,2 +1,16 @@
 # Discord-Grabber
-It's a simple IP and System infomation grabber I made that sends the infomation using Discord webhooks.
+It's a simple IP and system information grabber I made that sends the information using Discord webhooks.
+
+## Usage
+Run this command in CMD, terminal or PowerShell (if you don't already have the following modules installed):
+```
+pip install psutil
+pip install requests
+```
+1. Create a discord webhook.
+2. Replace "webhook-url-here" with your webhooks url, make sure its discord.com instead of discordapp.com.
+3. (Optional) Compile the file into a exe, dont know how? https://www.youtube.com/watch?v=UZX5kH72Yx4.
+4. Done.
+
+## Legal Notice
+This is illegal if you use this without the consent of the owners (in this case, the Discord team). I am not accountable for anything you get into. This is 100% educational, please do not misuse this tool.
