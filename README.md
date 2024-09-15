@@ -1,6 +1,5 @@
 # Discord-Grabber
 It's a simple tool I created that grabs IP and system information and sends it using Discord webhooks.
-I will be adding more features soon.
 
 ## Usage
 Run this command in CMD, terminal or PowerShell (if you don't already have the following modules installed):
