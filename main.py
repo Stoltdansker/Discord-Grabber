@@ -6,7 +6,7 @@ import psutil
 # Function to check if the IP is from a known VPN provider
 def is_vpn(ip):
     # List of known VPN IP ranges (for demonstration; this should be expanded)
-    vpn_ips = requests.get("https://raw.githubusercontent.com/X4BNet/lists_vpn/main/ipv4.txt").text
+    vpn_ips = requests.get("https://raw.githubusercontent.com/Stoltdansker/IP-Grabber/main/vpnip.txt").text
     
     # This is a basic check; for real detection, you'd need a more sophisticated method
     for range in vpn_ips:
